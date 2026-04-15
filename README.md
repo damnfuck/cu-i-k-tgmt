@@ -1,1 +1,9 @@
-# cu-i-k-tgmt
+# ĐỀ TÀI 10 - PHÁT HIỆN HỎA HOẠN VÀ KHÓI QUA CAMERA
+Môn: Thị giác Máy tính  
+Lớp: ...  
+Họ tên SV: ...  
+MSSV: ...
+
+## Cài đặt
+```bash
+pip install -r requirements.txt
